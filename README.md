@@ -9,16 +9,26 @@ In this way, the employee working at the desk will be less distracted and she/he
 Suppose you have 6 employees (employee ids are given 1 to 6, employee 6 is at the top of stack)  in the bank. 
 
  
-122 1 2 ..
-128 1 1 ..
-113 1 2 ..
-118 2 3 ..
-119 2 5 ..
-115 2 9 ..
-127 3 1 ..
-156 3 4 ..
-112 3 5 ..
-121 3 7 ..
+122 1 2
+
+128 1 1
+
+113 1 2
+
+118 2 3
+
+119 2 5
+
+115 2 9
+
+127 3 1
+
+156 3 4
+
+112 3 5
+
+121 3 7
+
 -1
  
  
@@ -27,16 +37,26 @@ Suppose you have 6 employees (employee ids are given 1 to 6, employee 6 is at th
  
 Output (for 6 employees) 
  
-122 6 1 3 0 ..
-128 5 1 2 0 ..
-113 4 1 3 0 ..
-118 5 2 5 0 ..
-119 3 2 7 0 ..
-115 2 2 11 0 ..
-127 6 3 4 0 ..
-156 4 3 7 0 ..
-112 1 3 8 0 ..
-121 6 4 11 1 ..
+122 6 1 3 0
+
+128 5 1 2 0
+
+113 4 1 3 0
+
+118 5 2 5 0
+
+119 3 2 7 0
+
+115 2 2 11 0
+
+127 6 3 4 0
+
+156 4 3 7 0
+
+112 1 3 8 0
+
+121 6 4 11 1
+
  
 6 10 ..
 5 4 ..
