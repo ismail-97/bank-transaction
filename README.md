@@ -58,12 +58,18 @@ Output (for 6 employees)
 121 6 4 11 1
 
  
-6 10 ..
-5 4 ..
-4 6 ..
-3 5 ..
-2 9 ..
-1 5  ..
+6 10
+
+5 4
+
+4 6
+
+3 5
+
+2 9
+
+1 5
+
  
 In this given text file, the first customer with the account number 122 comes to the bank in the 1st minute and has 2 minutes processing.
 (You can think of “comes in the first minute” as coming at the beginning of the first minute). 
