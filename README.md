@@ -1,5 +1,6 @@
 # bank-transaction
 
+problem solving: using queue & stack & lists.
 
 Customers who are waiting to make transactions in a bank located in a residential area with a low population density are in a “queue”. 
 The employees who perform the operations are located in a “stack”. 
